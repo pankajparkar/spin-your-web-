@@ -12,7 +12,7 @@
   - DOM
   - Attach Events
 
-Let's Enhance website with below feature
+## Let's Enhance website with below feature
 - Add to Bag button
 - Change add to bag button text on click
 - Show number on Bag icon in navbar
@@ -20,6 +20,6 @@ Let's Enhance website with below feature
 - Render all products from JSON using Ajax call
 - Navigate to checkout page Navbar bag icon click.
 
-If time permits 
+### If time permits 
   - Responsive Page
   - Navigate to checkout page Navbar bag icon click.
