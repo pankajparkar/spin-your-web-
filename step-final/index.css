@@ -1,0 +1,27 @@
+.heading {
+    background-color: green;
+}
+
+.hide {
+    display: none;
+}
+
+.navbar {
+    /* color: white;
+    background: black; */
+    width: 100%;
+}
+.website-title {
+    float: left;
+}
+.nav-link {
+    float: left;
+}
+
+#add-to-bag-1 {
+
+}
+
+.bordered {
+    border: 1px solid red;
+}
