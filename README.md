@@ -11,6 +11,7 @@
   - Data types
   - DOM
   - Attach Events
+- Host website locally
 
 ## Let's Enhance website with below feature
 - Add to Bag button
