@@ -24,3 +24,9 @@
 ### If time permits 
   - Responsive Page
   - Navigate to checkout page Navbar bag icon click.
+
+
+
+## Development
+
+All steps are there. Just open the file from the desired step and run index.html in the browser.
